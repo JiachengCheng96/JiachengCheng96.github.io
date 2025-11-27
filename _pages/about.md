@@ -7,6 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Postdoctoral researcher at Yale School of Engineering and Applied Science, advised by Prof. Tara Boroushaki. Prior to this, I earned my PhD from Statistical Visual Computing Lab at University of California San Diego, advised by Prof. Nuno Vasconcelos in 2025, and my BS from University of Science and Technology of China in 2018.  
 
+I am currently a Postdoctoral Researcher at Yale University, advised by [Prof. Tara Boroushaki](https://taraboroushaki.com/).
 
+Prior to this, I earned my **Ph.D.** from the [Statistical Visual Computing Lab](http://www.svcl.ucsd.edu/) at the [University of California San Diego](https://ucsd.edu/) in 2025,  
+advised by [Prof. Nuno Vasconcelos](http://www.svcl.ucsd.edu/~nuno/). I received my **B.S.** from the  
+[University of Science and Technology of China](https://en.ustc.edu.cn/) in 2018.
