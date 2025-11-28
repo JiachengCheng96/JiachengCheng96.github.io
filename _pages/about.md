@@ -44,6 +44,12 @@ A list of my selected publications is below. The full list can be found at [Goog
         CVPR 2021 | <a href="#">[PDF]</a>
     </div>
 
+    <div style="margin-bottom: 10px;">
+        <strong>Learning with Bounded Instance- and Label-dependent Label Noise</strong><br>
+        Jiacheng Cheng, Tongliang Liu, Kotagiri Ramamohanarao, Dacheng Tao
+        ICML 2020 | <a href="#">[PDF]</a>
+    </div>
+
     <div style="font-size: 12px; color: #666; margin-top: 15px;">
         ✉️ Corresponding author
     </div>
