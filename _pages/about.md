@@ -25,14 +25,14 @@ A list of my selected publications is below. The full list can be found at [Goog
 ECCV 2024 | <a href="#">[PDF]</a>
 </div>
 
-<div style="margin-bottom: 6px;">
+<div style="margin-bottom: 8px;">
 **Towards Calibrated Multi-label Deep Neural Networks**  
 *Jiacheng Cheng*✉️ and Nuno Vasconcelos  
 <strong>CVPR 2024</strong> | <a href="#">[PDF]</a>
 </div>
 
 <div style="margin-bottom: 6px;">
-<strong>Calibrating Deep Neural Networks by Pairwise Constraints</strong>
+**Calibrating Deep Neural Networks by Pairwise Constraints**
 <br>
 <em>Jiacheng Cheng</em>✉️, Nuno Vasconcelos — <strong>CVPR 2022</strong> <span style="color:red; font-weight:bold;">(Oral)</span> | <a href="#">[PDF]</a>
 </div>
