@@ -22,8 +22,7 @@ A list of my selected publications is below. The full list can be found at [Goog
 **Learning a Dynamic Privacy-preserving Camera Robust to Inversion Attacks**<br>
 **Jiacheng Cheng**✉️, Xiang Dai, Jia Wan, Nick Antipa, Nuno Vasconcelos<br>
 ECCV 2024 | [[PDF](#)]<br>
-<span style="color:red;">Oral Presentation
-</span>
+<span style="color:red;">Oral Presentation</span>
 </span>
 
 <span style="font-size:12px; line-height:1.2; margin-bottom:0.4em;">
