@@ -21,6 +21,7 @@ A list of my selected publications is below. The full list can be found at [Goog
 
 <div style="margin-bottom: 8px;">
 **Learning a Dynamic Privacy-preserving Camera Robust to Inversion Attacks**  
+<br>
 <em>Jiacheng Cheng</em>✉️, Xiang Dai, Jia Wan, Nick Antipa, Nuno Vasconcelos  
 ECCV 2024 | <a href="#">[PDF]</a>
 </div>
