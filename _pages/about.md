@@ -51,7 +51,7 @@ A list of my selected publications is below. The full list can be found at [Goog
     </div>
 
     <div style="font-size: 14px; color: #666; margin-top: 15px;">
-        ✉️ Corresponding author
+        ✉️: Corresponding author
     </div>
 
 </div>
