@@ -20,19 +20,19 @@ A list of my selected publications is below. The full list can be found at [Goog
 
 <span style="font-size:12px; line-height:0.8; margin-bottom:0.4em;">
 **Learning a Dynamic Privacy-preserving Camera Robust to Inversion Attacks**<br>
-**Jiacheng Cheng**✉️, Xiang Dai, Jia Wan, Nick Antipa, Nuno Vasconcelos<br>
+*Jiacheng Cheng*✉️, Xiang Dai, Jia Wan, Nick Antipa, Nuno Vasconcelos<br>
 ECCV 2024 | [[PDF](#)]<br>
 <span style="color:red;">Oral Presentation</span>
 </span>
 
 <span style="font-size:12px; line-height:0.8; margin-bottom:0.4em;">
 **Towards Calibrated Multi-label Deep Neural Networks**<br>
-**Jiacheng Cheng**✉️ and Nuno Vasconcelos<br>
+*Jiacheng Cheng*✉️ and Nuno Vasconcelos<br>
 CVPR 2024 | [[PDF](#)]
 </span>
 
 <span style="font-size:12px; line-height:1.0; margin-bottom:1em;"> **Calibrating Deep Neural Networks by Pairwise Constraints**<br>
-**Jiacheng Cheng**✉️, Nuno Vasconcelos<br>
+*Jiacheng Cheng*✉️, Nuno Vasconcelos<br>
 CVPR 2022 | [[PDF](#)]<br>
 <span style="color:red;">Oral Presentation</span>
 </span>
