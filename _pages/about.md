@@ -27,7 +27,7 @@ ECCV 2024 | <a href="#">[PDF]</a>
 
 <div style="margin-bottom: 6px;">
 **Towards Calibrated Multi-label Deep Neural Networks**  
-*Jiacheng Cheng**✉️ and Nuno Vasconcelos  
+*Jiacheng Cheng*✉️ and Nuno Vasconcelos  
 <strong>CVPR 2024</strong> | <a href="#">[PDF]</a>
 </div>
 
