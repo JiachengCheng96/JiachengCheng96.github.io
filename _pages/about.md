@@ -23,23 +23,23 @@ A list of my selected publications is below. The full list can be found at [Goog
 **Jiacheng Cheng**✉️, Xiang Dai, Jia Wan, Nick Antipa, Nuno Vasconcelos<br>
 ECCV 2024 | [[PDF](#)]<br>
 <span style="color:red;">Oral Presentation</span>
-</span>
+</div>
 
 <div style="font-size:12px; line-height:1.2; margin-bottom:0.4em;">
 **Towards Calibrated Multi-label Deep Neural Networks**<br>
 **Jiacheng Cheng**✉️ and Nuno Vasconcelos<br>
 CVPR 2024 | [[PDF](#)]
-</span>
+</div>
 
 <span style="font-size:12px; line-height:1.5; margin-bottom:1em;"> **Calibrating Deep Neural Networks by Pairwise Constraints**<br>
 **Jiacheng Cheng**✉️, Nuno Vasconcelos<br>
 CVPR 2022 | [[PDF](#)]<br>
 <span style="color:red;">Oral Presentation</span>
-</span>
+</div>
 
 - <span style="font-size:12px; line-height:1.5; margin-bottom:1em;"> **Learning Deep Classifiers Consistent with Fine-Grained Novelty Detection**<br>
 **Jiacheng Cheng**✉️, Nuno Vasconcelos<br>
 CVPR 2021 | [[PDF](#)]  
-</span>
+</div>
 
 *✉️ Corresponding author*
