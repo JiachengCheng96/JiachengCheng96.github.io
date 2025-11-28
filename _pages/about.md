@@ -38,7 +38,7 @@ ECCV 2024 | <a href="#">[PDF]</a>
 </div>
 
 <div style="margin-bottom: 6px;">
-<strong>Learning Deep Classifiers Consistent with Fine-Grained Novelty Detection</strong>
+***Learning Deep Classifiers Consistent with Fine-Grained Novelty Detection***
 <br>
 <em>Jiacheng Cheng</em>✉️, Nuno Vasconcelos — <strong>CVPR 2021</strong> | <a href="#">[PDF]</a>
 </div>
