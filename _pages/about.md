@@ -15,7 +15,7 @@ Prior to this, I earned my PhD from  [Statistical Visual Computing Lab](http://w
 
 # Selected Publications
 A list of my selected publication is as below. The full list of my publications can be found at [Google Scholar](https://scholar.google.com/citations?user=bWqc6Z8AAAAJ&hl).
-<span style="font-size:12px;">
+<span style="font-size:10px;">
 - **Learning a Dynamic Privacy-preserving Camera Robust to Inversion Attacks**   
   **Jiacheng Cheng**✉️, Xiang Dai, Jia Wan, Nick Antipa, Nuno Vasconcelos   
   ECCV 2024 | [[PDF](#)]  
