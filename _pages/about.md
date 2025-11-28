@@ -14,3 +14,4 @@ Prior to this, I earned my PhD from  [Statistical Visual Computing Lab](http://w
 
 
 # Selected Publications
+A list of my selected publication is as below. The full list of my publications can be found at [Google Scholar](https://scholar.google.com/citations?user=bWqc6Z8AAAAJ&hl).
