@@ -26,7 +26,7 @@ A list of my selected publications is below. The full list can be found at [Goog
 </div>
 
 <div style="margin-bottom: 6px;">
-***Towards Calibrated Multi-label Deep Neural Networks***
+***Towards Calibrated Multi-label Deep Neural Networks***  
 **Jiacheng Cheng**✉️ and Nuno Vasconcelos  
 <strong>CVPR 2024</strong> | <a href="#">[PDF]</a>
 </div>
