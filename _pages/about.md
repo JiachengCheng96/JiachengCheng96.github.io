@@ -18,7 +18,7 @@ Prior to this, I earned my PhD from  [Statistical Visual Computing Lab](http://w
 
 A list of my selected publications is below. The full list can be found at [Google Scholar](https://scholar.google.com/citations?user=bWqc6Z8AAAAJ&hl).
 
-<div style="font-size: 14px; line-height: 1.3;">
+<div style="font-size: 16px; line-height: 1.3;">
 
     <div style="margin-bottom: 10px;">
         <strong>Learning a Dynamic Privacy-preserving Camera Robust to Inversion Attacks</strong><br>
