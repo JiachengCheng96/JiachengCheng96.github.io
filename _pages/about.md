@@ -21,6 +21,12 @@ A list of my selected publications is below. The full list can be found at [Goog
 <div style="font-size: 16px; line-height: 1.3;">
 
     <div style="margin-bottom: 10px;">
+        <strong>EgoPrivacy: What Your First-Person Camera Says About You</strong><br>
+        Yijiang Li, Genpei Zhang, <em>Jiacheng Cheng</em> (✉️), Yi Li, Xiaojun Shan, Dashan Gao, Jiancheng Lyu, Yuan Li, Ning Bi, Nuno Vasconcelos<br>
+        ICML 2025 <span style="color:red; font-weight:bold;">(Oral Presentation)</span>  | <a href="#">[PDF]</a>
+    </div>
+    
+    <div style="margin-bottom: 10px;">
         <strong>Learning a Dynamic Privacy-preserving Camera Robust to Inversion Attacks</strong><br>
         <em>Jiacheng Cheng</em> (✉️), Xiang Dai, Jia Wan, Nick Antipa, Nuno Vasconcelos<br>
         ECCV 2024 <span style="color:red; font-weight:bold;">(Oral Presentation)</span>  | <a href="#">[PDF]</a>
@@ -46,7 +52,7 @@ A list of my selected publications is below. The full list can be found at [Goog
 
     <div style="margin-bottom: 10px;">
         <strong>Learning with Bounded Instance- and Label-dependent Label Noise</strong><br>
-        <u>Jiacheng Cheng</u>, Tongliang Liu, Kotagiri Ramamohanarao, Dacheng Tao<br>
+        <em>Jiacheng Cheng</em>, Tongliang Liu, Kotagiri Ramamohanarao, Dacheng Tao<br>
         ICML 2020 | <a href="#">[PDF]</a>
     </div>
 
