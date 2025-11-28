@@ -24,6 +24,7 @@ A list of my selected publications is below. The full list can be found at [Goog
 ECCV 2024 | [[PDF](#)]<br>
 <span style="color:red;">Oral Presentation
 </span>
+</span>
 
 <span style="font-size:12px; line-height:1.2; margin-bottom:0.4em;">
 **Towards Calibrated Multi-label Deep Neural Networks**<br>
@@ -35,6 +36,7 @@ CVPR 2024 | [[PDF](#)]
 **Jiacheng Cheng**✉️, Nuno Vasconcelos<br>
 CVPR 2022 | [[PDF](#)]<br>
 <span style="color:red;">Oral Presentation
+</span>
 </span>
 
 <span style="font-size:12px; line-height:1.0; margin-bottom:1em;"> **Learning Deep Classifiers Consistent with Fine-Grained Novelty Detection**<br>
