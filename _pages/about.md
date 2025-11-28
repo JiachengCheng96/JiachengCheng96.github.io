@@ -34,8 +34,7 @@ CVPR 2024 | [[PDF](#)]
 <span style="font-size:12px; line-height:1.0; margin-bottom:1em;"> **Calibrating Deep Neural Networks by Pairwise Constraints**<br>
 **Jiacheng Cheng**✉️, Nuno Vasconcelos<br>
 CVPR 2022 | [[PDF](#)]<br>
-<span style="color:red;">Oral Presentation
-</span>
+<span style="color:red;">Oral Presentation</span>
 </span>
 
 <span style="font-size:12px; line-height:1.0; margin-bottom:1em;"> **Learning Deep Classifiers Consistent with Fine-Grained Novelty Detection**<br>
