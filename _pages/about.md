@@ -23,7 +23,7 @@ A list of my selected publications is below. The full list can be found at [Goog
     <div style="margin-bottom: 10px;">
         <strong>Learning a Dynamic Privacy-preserving Camera Robust to Inversion Attacks</strong><br>
         <em>Jiacheng Cheng</em> (✉️), Xiang Dai, Jia Wan, Nick Antipa, Nuno Vasconcelos<br>
-        ECCV 2024 | <a href="#">[PDF]</a>
+        ECCV 2024 <span style="color:red; font-weight:bold;">(Oral Presentation)</span>  | <a href="#">[PDF]</a>
     </div>
 
     <div style="margin-bottom: 10px;">
@@ -35,7 +35,7 @@ A list of my selected publications is below. The full list can be found at [Goog
     <div style="margin-bottom: 10px;">
         <strong>Calibrating Deep Neural Networks by Pairwise Constraints</strong><br>
         <em>Jiacheng Cheng</em> (✉️), Nuno Vasconcelos<br>
-        CVPR 2022 <span style="color:red; font-weight:bold;">(Oral)</span> | <a href="#">[PDF]</a>
+        CVPR 2022 <span style="color:red; font-weight:bold;">(Oral Presentation)</span> | <a href="#">[PDF]</a>
     </div>
 
     <div style="margin-bottom: 10px;">
