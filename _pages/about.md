@@ -18,13 +18,13 @@ Prior to this, I earned my PhD from  [Statistical Visual Computing Lab](http://w
 
 A list of my selected publications is below. The full list can be found at [Google Scholar](https://scholar.google.com/citations?user=bWqc6Z8AAAAJ&hl).
 
-- <span style="font-size:12px; line-height:1.5;"> **Learning a Dynamic Privacy-preserving Camera Robust to Inversion Attacks**<br>
+- <span style="font-size:12px; line-height:1.;"> **Learning a Dynamic Privacy-preserving Camera Robust to Inversion Attacks**<br>
 **Jiacheng Cheng**✉️, Xiang Dai, Jia Wan, Nick Antipa, Nuno Vasconcelos<br>
 ECCV 2024 | [[PDF](#)]<br>
 <span style="color:red;">Oral Presentation</span>
 </span>
 
-- <span style="font-size:12px; line-height:1.5;"> **Towards Calibrated Multi-label Deep Neural Networks**<br>
+- <span style="font-size:12px; line-height:1.;"> **Towards Calibrated Multi-label Deep Neural Networks**<br>
 **Jiacheng Cheng**✉️ and Nuno Vasconcelos<br>
 CVPR 2024 | [[PDF](#)]
 </span>
