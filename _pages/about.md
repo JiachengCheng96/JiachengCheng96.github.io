@@ -17,35 +17,35 @@ Prior to this, I earned my PhD from  [Statistical Visual Computing Lab](http://w
 # Selected Publications
 
 A list of my selected publications is below. The full list can be found at [Google Scholar](https://scholar.google.com/citations?user=bWqc6Z8AAAAJ&hl).
-<div style="font-size: 16px; line-height: 1.2;">
 
-<div style="margin-bottom: 8px;">
-**Learning a Dynamic Privacy-preserving Camera Robust to Inversion Attacks**  
-<br>
-<em>Jiacheng Cheng</em>✉️, Xiang Dai, Jia Wan, Nick Antipa, Nuno Vasconcelos  
-ECCV 2024 | <a href="#">[PDF]</a>
-</div>
+<div style="font-size: 14px; line-height: 1.3;">
 
-<div style="margin-bottom: 8px;">
-**Towards Calibrated Multi-label Deep Neural Networks**  
-*Jiacheng Cheng*✉️ and Nuno Vasconcelos  
-<strong>CVPR 2024</strong> | <a href="#">[PDF]</a>
-</div>
+    <div style="margin-bottom: 10px;">
+        <strong>Learning a Dynamic Privacy-preserving Camera Robust to Inversion Attacks</strong><br>
+        <em>Jiacheng Cheng</em>✉️, Xiang Dai, Jia Wan, Nick Antipa, Nuno Vasconcelos<br>
+        ECCV 2024 | <a href="#">[PDF]</a>
+    </div>
 
-<div style="margin-bottom: 6px;">
-**Calibrating Deep Neural Networks by Pairwise Constraints**
-<br>
-<em>Jiacheng Cheng</em>✉️, Nuno Vasconcelos — <strong>CVPR 2022</strong> <span style="color:red; font-weight:bold;">(Oral)</span> | <a href="#">[PDF]</a>
-</div>
+    <div style="margin-bottom: 10px;">
+        <strong>Towards Calibrated Multi-label Deep Neural Networks</strong><br>
+        <em>Jiacheng Cheng</em>✉️ and Nuno Vasconcelos<br>
+        CVPR 2024 | <a href="#">[PDF]</a>
+    </div>
 
-<div style="margin-bottom: 6px;">
-**Learning Deep Classifiers Consistent with Fine-Grained Novelty Detection**
-<br>
-<em>Jiacheng Cheng</em>✉️, Nuno Vasconcelos — <strong>CVPR 2021</strong> | <a href="#">[PDF]</a>
-</div>
+    <div style="margin-bottom: 10px;">
+        <strong>Calibrating Deep Neural Networks by Pairwise Constraints</strong><br>
+        <em>Jiacheng Cheng</em>✉️, Nuno Vasconcelos<br>
+        CVPR 2022 <span style="color:red; font-weight:bold;">(Oral)</span> | <a href="#">[PDF]</a>
+    </div>
 
-<div style="font-size: 11px; margin-top: 10px; color: #666;">
-✉️ Corresponding author
-</div>
+    <div style="margin-bottom: 10px;">
+        <strong>Learning Deep Classifiers Consistent with Fine-Grained Novelty Detection</strong><br>
+        <em>Jiacheng Cheng</em>✉️, Nuno Vasconcelos<br>
+        CVPR 2021 | <a href="#">[PDF]</a>
+    </div>
+
+    <div style="font-size: 12px; color: #666; margin-top: 15px;">
+        ✉️ Corresponding author
+    </div>
 
 </div>
