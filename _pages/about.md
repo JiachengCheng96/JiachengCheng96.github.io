@@ -46,7 +46,7 @@ A list of my selected publications is below. The full list can be found at [Goog
 
     <div style="margin-bottom: 10px;">
         <strong>Learning with Bounded Instance- and Label-dependent Label Noise</strong><br>
-        Jiacheng Cheng, Tongliang Liu, Kotagiri Ramamohanarao, Dacheng Tao
+        <u>Jiacheng Cheng</u>, Tongliang Liu, Kotagiri Ramamohanarao, Dacheng Tao<br>
         ICML 2020 | <a href="#">[PDF]</a>
     </div>
 
