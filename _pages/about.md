@@ -17,12 +17,18 @@ Prior to this, I earned my PhD from  [Statistical Visual Computing Lab](http://w
 A list of my selected publication is as below. The full list of my publications can be found at [Google Scholar](https://scholar.google.com/citations?user=bWqc6Z8AAAAJ&hl).
 
 - **Learning a Dynamic Privacy-preserving Camera Robust to Inversion Attacks**   
-  **Jiacheng Cheng**✉️, Xiang Dai, Jia Wan, Nick Antipa, and Nuno Vasconcelos   
+  **Jiacheng Cheng**✉️, Xiang Dai, Jia Wan, Nick Antipa, Nuno Vasconcelos   
   ECCV 2024 | [[PDF](#)]  
   <span style="color:red;">Oral Presentation</span>
 - **Towards Calibrated Multi-label Deep Neural Networks**   
-  **Jiacheng Cheng**† and Nuno Vasconcelos   
+  **Jiacheng Cheng**✉️ and Nuno Vasconcelos   
   CVPR 2024 | [[PDF](#)]  
+- **Calibrating Deep Neural Networks by Pairwise Constraints**   
+  **Jiacheng Cheng**✉️, Nuno Vasconcelos   
+  CVPR 2022 | [[PDF](#)]  
+  <span style="color:red;">Oral Presentation</span>
+- **Learning Deep Classifiers Consistent with Fine-Grained Novelty Detection**   
+  **Jiacheng Cheng**✉️, Nuno Vasconcelos   
+  CVPR 2021 | [[PDF](#)]  
 
-
-**✉️ Corresponding author**
+*✉️ Corresponding author*
