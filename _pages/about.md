@@ -50,7 +50,7 @@ A list of my selected publications is below. The full list can be found at [Goog
         ICML 2020 | <a href="#">[PDF]</a>
     </div>
 
-    <div style="font-size: 12px; color: #666; margin-top: 15px;">
+    <div style="font-size: 14px; color: #666; margin-top: 15px;">
         ✉️ Corresponding author
     </div>
 
