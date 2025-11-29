@@ -51,7 +51,7 @@ My research insterests are focused on machine learning and its applications (e.g
     <div style="margin-bottom: 10px;">
         <strong>Learning with Bounded Instance- and Label-dependent Label Noise</strong><br>
         <em>Jiacheng Cheng</em>, Tongliang Liu, Kotagiri Ramamohanarao, Dacheng Tao<br>
-        ICML 2020 | <a href="#">[PDF]</a>
+        ICML 2020 | <a href="https://proceedings.mlr.press/v119/cheng20c.html">[Paper]</a>
     </div>
 
     <div style="font-size: 14px; margin-top: 15px;">
