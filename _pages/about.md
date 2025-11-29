@@ -54,8 +54,8 @@ My research insterests are focused on machine learning and its applications (e.g
         ICML 2020 | <a href="#">[PDF]</a>
     </div>
 
-    <div style="font-size: 14px; color: #666; margin-top: 15px;">
-        ✉️: Corresponding author
+    <div style="font-size: 14px; margin-top: 15px;">
+        ✉️ denotes Corresponding author
     </div>
 
 </div>
